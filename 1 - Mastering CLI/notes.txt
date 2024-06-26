@@ -1,0 +1,31 @@
+Creating a directory
+mkdir 'directory/folder name'
+
+clear the terminal
+clear
+
+Remove the folder/directory
+rmdir 'directory/folder name'
+
+TO check the file path of current directory
+pwd
+
+List command
+ls
+
+To check the available folders
+directory
+
+To change directories
+cd 'directory_path'
+cd '1 - Mastering CLI'
+
+Go back one previous directory
+cd..
+
+To create file
+touch [file_name.extension]
+
+To remove file
+rm [file_name.extension]
+
